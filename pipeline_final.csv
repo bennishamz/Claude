@@ -1,0 +1,48 @@
+account_name,website_url,website_confidence,revenue_status,reported_revenue,employee_count,vertical,vertical_verdict,sells_physical_products,has_ecommerce,catalog_size,has_product_images,fit_score,notes
+Advanced Drainage Systems,https://www.ads-pipe.com,HIGH,confirmed,~$2.9B (FY2024),7000+,Construction/Drainage,KEEP,PASS,DEPRIORITIZE,LARGE,PASS,B,Home improvement/water management; no direct consumer ecommerce; sold via Home Depot/Amazon
+American Eagle,https://www.ae.com,HIGH,confirmed,~$5.3B (FY2024),40000+,Fashion/Apparel,DISQUALIFY,PASS,PASS,LARGE,PASS,DISQUALIFIED,Casual fashion retailer
+Assa Abloy,https://www.assaabloy.com,HIGH,confirmed,~$13B (2024),52000+,Home Improvement/Security,KEEP,PASS,PASS,LARGE,PASS,A,Global lock/access leader; 250+ brands incl. Yale; B2B eStore; very large catalog
+Bata,https://www.bata.com,HIGH,confirmed,~$2-3B,30000+,Footwear,KEEP,PASS,PASS,LARGE,PASS,B,Global footwear; full ecommerce; large catalog; upgraded per manual review
+Bentley,https://www.bentleymotors.com,HIGH,confirmed,~EUR 3.4B (2023),4500+,Automotive/Luxury,KEEP,PASS,PASS,SMALL,PASS,C,Luxury auto; small lifestyle merch catalog online
+Bestway,https://www.bestwaycorp.com,MEDIUM,confirmed,~$2.8B (2025),3000+,Outdoor/Recreation,KEEP,PASS,PASS,LARGE,PASS,A,Inflatable pools/spas/outdoor; 1100+ products; strong product imagery
+Carhartt,https://www.carhartt.com,HIGH,confirmed,~$1.5-1.8B,5000+,Outdoor/Workwear,KEEP,PASS,PASS,LARGE,PASS,A,Workwear & outdoor gear; large DTC ecommerce; large catalog; upgraded per manual review
+Chicos,https://www.chicos.com,HIGH,confirmed,~$2.1B,10000+,Fashion/Apparel,DISQUALIFY,PASS,PASS,LARGE,PASS,DISQUALIFIED,US women's fashion
+Clarks,https://www.clarks.com,HIGH,confirmed,~GBP 1.2B (~$1.5B),12000+,Footwear,KEEP,PASS,PASS,LARGE,PASS,B,British footwear brand; full ecommerce; large catalog; upgraded per manual review
+Costa,https://www.costa.co.uk,MEDIUM,confirmed,~GBP 1.5B+,16000+,Food & Beverage,DISQUALIFY,PASS,DEPRIORITIZE,SMALL,PASS,DISQUALIFIED,Coffee chain
+Digital Factory Invivo,https://www.invivo-group.com,MEDIUM,confirmed,~EUR 12B (InVivo Group),13000+,Agriculture/B2B,UNCLEAR,PASS,PASS,LARGE,PASS,C,French agricultural cooperative; B2B e-commerce via Aladin.farm (25k+ SKUs)
+Elisa,https://www.elisa.fi,MEDIUM,confirmed,~EUR 2.2B,6400+,Telecom/Electronics,UNCLEAR,PASS,PASS,MEDIUM,PASS,C,Finnish telecom; sells phones/routers/TVs as secondary to subscriptions
+Fanatics,https://www.fanatics.com,HIGH,confirmed,~$8B+,10000+,Sports Merchandise,KEEP,PASS,PASS,LARGE,PASS,A,Massive sports ecommerce; 1.5M+ products; strong fit for AI product images
+Fielmann,https://www.fielmann.com,HIGH,confirmed,~EUR 2.2B,23000+,Optical/Eyewear,UNCLEAR,PASS,PASS,LARGE,PASS,B,Europe's largest optician; large catalog but niche optical vertical
+Fossil,https://www.fossil.com,HIGH,confirmed,~$1.14B (FY2024),8000+,Watches/Accessories,KEEP,PASS,PASS,LARGE,PASS,B,Watches and accessories; strong DTC ecommerce; large catalog; upgraded per manual review
+Franklin Electric,https://www.franklin-electric.com,HIGH,confirmed,~$2.1B,6500+,Industrial/Pumping,UNCLEAR,PASS,DEPRIORITIZE,LARGE,PASS,C,B2B pump manufacturer; sold through distributors
+Franprix,https://www.franprix.fr,HIGH,confirmed,~EUR 2B+ (network),8000+,Grocery/Food Retail,DISQUALIFY,PASS,PASS,LARGE,PASS,DISQUALIFIED,French grocery chain; 900+ stores
+Fraport Frankfurt Airport Shopping,https://www.frankfurt-airport.com,HIGH,confirmed,~EUR 3.9B (2023),23000+,Airport Retail (mixed),UNCLEAR,PASS,PASS,LARGE,PASS,C,Mixed duty-free retail; spirits/perfume dominated
+Gedimat,https://www.gedimat.fr,HIGH,confirmed,~EUR 2B+ (network),10000+,Home Improvement/Building Materials,KEEP,PASS,PASS,LARGE,PASS,A,French building materials; 425+ stores; 50000+ product references
+Giant Tiger,https://www.gianttiger.com,HIGH,confirmed,~CAD 2B (~$1.5B USD),10000+,Discount Retail/Home,KEEP,PASS,PASS,LARGE,PASS,A,Canadian discount chain; home/garden/outdoor/toys segments alongside fashion/grocery; upgraded per manual review
+Grundfos,https://www.grundfos.com,HIGH,confirmed,~EUR 4.6B,20000+,Industrial/Pumping,UNCLEAR,PASS,DEPRIORITIZE,LARGE,PASS,C,Danish pump manufacturer; B2B; sold through distributors
+Havaianas,https://www.havaianas.com,HIGH,confirmed,~BRL 5B+ (Alpargatas),10000+,Footwear/Accessories,KEEP,PASS,PASS,MEDIUM,PASS,B,Sandals/flip-flops brand; DTC ecommerce; medium catalog; upgraded per manual review
+Henderson,https://www.henderson-group.com,LOW,confirmed,~GBP 1.389B (2024),3000+,Grocery/Food Retail,DISQUALIFY,PASS,DEPRIORITIZE,LARGE,DEPRIORITIZE,DISQUALIFIED,NI food/grocery group; SPAR/EUROSPAR stores
+Igus,https://www.igus.com,HIGH,confirmed,~EUR 1.105B (2024),5000+,Industrial/Manufacturing (B2B),UNCLEAR,PASS,PASS,LARGE,PASS,C,Motion plastics; online shop + configurator; 6800+ products; industrial B2B
+Intersport,https://www.intersport.com,HIGH,confirmed,~EUR 12B+ (network),100000+,Sporting Goods,KEEP,PASS,PASS,LARGE,PASS,A,World's largest sporting goods retailer; 5300+ stores; 700+ brands
+Jlr,https://www.jlr.com,HIGH,confirmed,~GBP 29B,40000+,Automotive,UNCLEAR,PASS,DEPRIORITIZE,SMALL,PASS,C,Luxury automotive; not an ecommerce use case
+Lagardere Travel Retail,https://www.lagardere-tr.com,MEDIUM,confirmed,~EUR 5.4B,20000+,Multi-category (travel),UNCLEAR,PASS,DEPRIORITIZE,LARGE,DEPRIORITIZE,C,Airport/station retail; corporate site; no DTC ecommerce
+Mannhummel,https://www.mann-hummel.com,HIGH,confirmed,~EUR 4.2B (2023),23000+,Industrial/Automotive Filtration,UNCLEAR,PASS,PASS,LARGE,PASS,C,Filtration; 6800+ products; industrial B2B
+Myer,https://www.myer.com.au,HIGH,confirmed,"~AUD 2.64B (~$1.7B USD, FY2024)",8000+,Department Store/Home,KEEP,PASS,PASS,LARGE,PASS,A,Australian department store; homewares/electronics/toys segments; large ecommerce; upgraded per manual review
+Rdo Equip,https://www.rdoequipment.com,HIGH,confirmed,~$3.5B,5000+,Heavy Equipment,UNCLEAR,PASS,DEPRIORITIZE,LARGE,PASS,C,John Deere dealer; not a product image use case
+Remy Cointreau,https://www.remy-cointreau.com,HIGH,confirmed,~EUR 1.2B,2000+,Spirits/Alcohol,DISQUALIFY,PASS,FAIL,SMALL,PASS,DISQUALIFIED,French spirits group; cognac/liqueurs
+Rexel,https://www.rexel.com,HIGH,confirmed,~EUR 19B+,26000+,Electrical Distribution,UNCLEAR,PASS,PASS,LARGE,PASS,B,Global electrical distributor; strong B2B ecommerce; massive catalog
+Rural King,https://www.ruralking.com,HIGH,confirmed,~$2B+,6000+,Farm & Home Supply,KEEP,PASS,PASS,LARGE,PASS,A,Outdoor/garden + sporting goods + pet + toys; 130+ stores; active ecommerce
+Schmidt Groupe,https://www.schmidt-groupe.com,HIGH,confirmed,~EUR 1.6B (distribution network),8000+,Kitchen/Home Furniture,KEEP,PASS,PASS,MEDIUM,PASS,B,French kitchen/furniture; 900+ showrooms; custom model limits catalog size
+Sealedair,https://www.sealedair.com,HIGH,confirmed,~$5.5B,17000+,Packaging/Industrial,UNCLEAR,PASS,PASS,MEDIUM,PASS,C,B2B packaging (Bubble Wrap etc.); small biz ecommerce; not target vertical
+Sephora,https://www.sephora.com,HIGH,confirmed,~$15B+ (est.),40000+,Beauty/Cosmetics,KEEP,PASS,PASS,LARGE,PASS,A,Global beauty retailer; massive ecommerce; 340+ brands; large catalog; upgraded per manual review
+Shop Apotheke Europe,https://www.shop-apotheke.com,HIGH,confirmed,~EUR 2.2B (FY2024),3000+,Online Pharmacy,DISQUALIFY,PASS,PASS,LARGE,PASS,DISQUALIFIED,Now Redcare Pharmacy; pharmacy vertical
+Smcp,https://www.smcp.com,HIGH,confirmed,~EUR 1.2B,6000+,Fashion/Apparel,DISQUALIFY,PASS,PASS,LARGE,PASS,DISQUALIFIED,Sandro/Maje/Claudie Pierlot fashion group
+Snipes,https://www.snipes.com,HIGH,confirmed,~EUR 1.8B (2024),7000+,Sneakers/Streetwear,KEEP,PASS,PASS,LARGE,PASS,B,Sneaker/streetwear retailer; 750+ stores; large ecommerce; upgraded per manual review
+Staples,https://www.staples.com,HIGH,confirmed,~$12B,25000+,Office Supplies,KEEP,PASS,PASS,LARGE,PASS,A,Office supplies/furniture/tech; tens of thousands of SKUs
+Starkey,https://www.starkey.com,HIGH,confirmed,~$1B (2024),5000+,Medical Devices,KEEP,PASS,DEPRIORITIZE,SMALL,PASS,C,Hearing aids; small catalog (~5-10 models); sold via audiologist clinics
+Steelcase,https://www.steelcase.com,HIGH,confirmed,~$3.2B,11000+,Office Furniture,KEEP,PASS,PASS,LARGE,PASS,A,Office furniture; DTC ecommerce (store.steelcase.com); rich product imagery
+Sunbelt Rentals,https://www.sunbeltrentals.com,HIGH,confirmed,~$7.5B,18000+,Equipment Rental,UNCLEAR,FAIL,DEPRIORITIZE,LARGE,PASS,C,Rental-only; does not sell products; not a fit
+Tarkett,https://www.tarkett.com,HIGH,confirmed,~EUR 3.4B,12000+,Flooring/Home Improvement,KEEP,PASS,DEPRIORITIZE,LARGE,PASS,B,Flooring manufacturer; large catalog but no direct ecommerce; dealer model
+Taylormade,https://www.taylormadegolf.com,HIGH,confirmed,~$2B+,3000+,Sporting Goods/Golf,KEEP,PASS,PASS,LARGE,PASS,A,Golf equipment; full DTC ecommerce; thousands of SKUs
+Tiffany And Co,https://www.tiffany.com,HIGH,confirmed,~$5B+,14000+,Jewelry/Luxury,KEEP,PASS,PASS,LARGE,PASS,A,Luxury jewelry; massive DTC ecommerce; large catalog; rich product imagery; upgraded per manual review
+Tvh,https://www.tvh.com,HIGH,confirmed,~EUR 2B+,5000+,Industrial Parts Distribution,UNCLEAR,PASS,PASS,LARGE,PASS,B,930K products in stock; full B2B ecommerce; industrial parts

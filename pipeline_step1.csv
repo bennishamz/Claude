@@ -1,0 +1,145 @@
+account_name,detection_source,website_url,website_confidence,skip,notes
+24Mx,subpage: pim for automotive ecommerce,https://www.24mx.com,HIGH,FALSE,European motorcycle/motocross parts online retailer; domain contains company name; matches automotive ecommerce context
+Abb Inbetween,testimonial: subpage: abb inbetween,null,LOW,TRUE,Niche company; unable to find a well-known company with this exact name. May be related to ABB group or a sub-brand
+Abitare,"customer story: abitare, testimonial: customer story: abitare",https://www.abitarekids.com,MEDIUM,FALSE,Abitare Kids is a children's furniture retailer; could also be Abitare (Italian home/furniture magazine). Ambiguous without live verification
+Adam Hall,customer story: adam hall,https://www.adamhall.com,HIGH,FALSE,"Adam Hall Group - German manufacturer/distributor of event technology, pro audio, lighting equipment; domain matches"
+Advanced Drainage Systems,"customer story: advanced drainage systems, testimonial: customer story: advanced drainage systems",https://www.ads-pipe.com,HIGH,FALSE,ADS - leading US manufacturer of water management/drainage products; well-known domain
+Agu,subpage: expand to new segments,https://www.agu.com,HIGH,FALSE,AGU - Dutch cycling clothing and accessories brand; domain matches company name
+Aigle,subpage: fashion,https://www.aigle.com,HIGH,FALSE,"French heritage brand - rubber boots, outdoor clothing, fashion; domain matches company name"
+Algorel Diamart Now,"customer story: algorel diamart now, testimonial: customer story: algorel diamart now",https://www.diamart.fr,MEDIUM,FALSE,Diamart Group / Algorel - French retail consulting firm; domain uses Diamart name. Niche company
+Alltricks,"customer story: alltricks, testimonial: customer story: alltricks",https://www.alltricks.com,HIGH,FALSE,French online cycling and outdoor sports retailer; domain matches company name
+American Eagle,"homepage, subpage: retailers & distributors",https://www.ae.com,HIGH,FALSE,American Eagle Outfitters - major US fashion retailer; ae.com is well-known domain
+Amg Medical,"customer story: amg medical, testimonial: customer story: amg medical",https://www.amgmedical.com,MEDIUM,FALSE,Canadian medical equipment company; domain plausible but niche company
+Asket,subpage: fashion,https://www.asket.com,HIGH,FALSE,Swedish sustainable fashion brand; domain matches company name
+Assa Abloy,"subpage: b2b manufacturing, testimonial: subpage: assa abloy",https://www.assaabloy.com,HIGH,FALSE,Swedish global lock and access solutions manufacturer; domain matches company name
+Axonlab,"customer story: axonlab, testimonial: customer story: axonlab",https://www.axonlab.com,HIGH,FALSE,Swiss laboratory products and diagnostics distributor; domain matches company name
+Babolat,"customer story: babolat, subpage: expand to new segments, testimonial: customer story: babolat",https://www.babolat.com,HIGH,FALSE,French tennis and racket sports equipment manufacturer; domain matches company name
+Bata,"customer story: bata, testimonial: customer story: bata",https://www.bata.com,HIGH,FALSE,Global footwear company (Czech origin); domain matches company name
+Bath Depot,"customer story: bath depot, testimonial: customer story: bath depot",https://www.bathdepot.ca,HIGH,FALSE,Canadian bathroom fixtures and renovation retailer; domain matches company name
+Bentley,customer story: bentley,https://www.bentleymotors.com,HIGH,FALSE,Bentley Motors - British luxury automotive manufacturer; well-known brand
+Bergfreunde,customer story: bergfreunde,https://www.bergfreunde.de,HIGH,FALSE,German online outdoor and climbing equipment retailer; domain matches company name
+Bestway,customer story: bestway,https://www.bestwaycorp.com,MEDIUM,FALSE,"Bestway Global - inflatable pools, outdoor products, home goods. NOT Bestway Travel. Multiple same-name companies exist"
+Boshart Industries,customer story: boshart industries,https://www.boshart.com,HIGH,FALSE,"Canadian manufacturer of plumbing, industrial valves and water products; domain matches"
+Bradfords,customer story: bradfords,https://www.bradfords.co.uk,HIGH,FALSE,Bradfords Building Supplies - UK building materials retailer; domain contains name
+Bs International,customer story: bs international,null,LOW,TRUE,Generic name with many possible matches; unable to verify - no confident match
+Calumet Photographic,customer story: calumet photographic,https://www.calumetphoto.com,HIGH,FALSE,Calumet Photographic - photography equipment retailer; well-known brand
+Carhartt,subpage: fashion,https://www.carhartt.com,HIGH,FALSE,Carhartt - iconic American workwear/fashion brand; domain contains name
+Caterforce,subpage: pim for food and beverage,https://www.caterforce.co.uk,HIGH,FALSE,Caterforce - UK foodservice buying group; domain contains name; matches food & beverage context
+Chicos,subpage: fashion,https://www.chicos.com,HIGH,FALSE,Chico's FAS - US women's fashion retailer; domain contains name
+City Furniture,"customer story: city furniture, subpage: akeneo solutions, subpage: customer story, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.cityfurniture.com,HIGH,FALSE,City Furniture - US furniture retailer based in Florida; domain contains name
+Clarks,"homepage, subpage: retailers & distributors",https://www.clarks.com,HIGH,FALSE,Clarks - iconic British footwear brand; domain contains name
+Costa,"subpage: activation, subpage: sell on retailers marketplaces",https://www.costa.co.uk,MEDIUM,FALSE,Likely Costa Coffee (UK coffee chain); in Akeneo PIM context could also be Costa sunglasses. Ambiguity exists
+Courir,testimonial: subpage: courir,https://www.courir.com,HIGH,FALSE,Courir - French sneaker/footwear retailer; domain contains name
+Delfingen,customer story: delfingen,https://www.delfingen.com,HIGH,FALSE,Delfingen Industry - automotive protection solutions manufacturer; domain contains name
+Demon Tweeks,subpage: pim for automotive ecommerce,https://www.demon-tweeks.com,HIGH,FALSE,Demon Tweeks - UK motorsport and car parts retailer; matches automotive ecommerce context
+Deventrade,customer story: deventrade,null,LOW,TRUE,Unable to find a well-known company with this name; may be a niche/regional B2B company
+Digital Factory Invivo,customer story: digital factory invivo,https://www.invivo-group.com,MEDIUM,FALSE,InVivo is a major French agricultural cooperative; Digital Factory is likely their digital arm
+Drawer,subpage: distributor retailer,https://www.drawer.fr,HIGH,FALSE,Drawer - French online furniture/home decor retailer; domain contains name
+Eataly,subpage: pim for food and beverage,https://www.eataly.com,HIGH,FALSE,Eataly - Italian food marketplace/retailer; domain contains name
+Electro Depot,customer story: electro depot,https://www.electrodepot.fr,HIGH,FALSE,Electro Depot - French electronics discount retailer; domain contains name
+Elisa,subpage: distributor retailer,https://www.elisa.fi,MEDIUM,FALSE,Elisa - Finnish telecommunications company; some ambiguity with other Elisa-named companies
+Emka Gruppe,customer story: emka gruppe,https://www.emka.com,MEDIUM,FALSE,EMKA Group - German manufacturer of locking/hinge systems; Gruppe is German for group
+Fanatics,"homepage, subpage: retailers & distributors",https://www.fanatics.com,HIGH,FALSE,Fanatics - major US licensed sports merchandise retailer; domain contains name
+Felco,customer story: felco,https://www.felco.com,HIGH,FALSE,Felco - Swiss manufacturer of pruning shears and cutting tools; domain contains name
+Feuvert,subpage: pim for automotive ecommerce,https://www.feuvert.fr,HIGH,FALSE,French automotive service/retail chain (Feu Vert). Domain contains brand name
+Fielmann,customer story: fielmann,https://www.fielmann.com,HIGH,FALSE,German optical retail chain. Domain matches company name
+Fossil,"customer story: fossil, subpage: akeneo solutions, subpage: customer story, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.fossil.com,HIGH,FALSE,American watches and accessories brand. Domain matches company name
+Franklin Electric,"subpage: akeneo solutions, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.franklin-electric.com,HIGH,FALSE,US-based manufacturer of pumping systems. Domain matches company name
+Franprix,customer story: franprix,https://www.franprix.fr,HIGH,FALSE,French supermarket chain (Casino Group). Domain matches company name
+Fraport Frankfurt Airport Shopping,customer story: fraport frankfurt airport shopping,https://www.frankfurt-airport.com,HIGH,FALSE,Fraport operates Frankfurt Airport including retail/shopping
+Furla,"customer story: furla, subpage: fashion",https://www.furla.com,HIGH,FALSE,Italian luxury leather goods brand. Domain matches company name
+Gadero,customer story: gadero,https://www.gadero.nl,HIGH,FALSE,Dutch online wood and garden products retailer. Domain matches company name
+Gedimat,customer story: gedimat,https://www.gedimat.fr,HIGH,FALSE,French building materials retail cooperative. Domain matches company name
+Giant Tiger,customer story: giant tiger,https://www.gianttiger.com,HIGH,FALSE,Canadian discount store chain. Domain matches company name
+Grillstar,customer story: grillstar,null,LOW,TRUE,BBQ/grill brand likely sold through retailers (e.g. Bauhaus). May not have a dedicated standalone website
+Groupe Emosia,customer story: groupe emosia,https://www.emosia.com,MEDIUM,FALSE,French group in home fragrance/beauty (includes brands like Bougies la Francaise)
+Groupe Ici,customer story: groupe ici,https://www.groupeici.com,MEDIUM,FALSE,French retail/distribution group. Duplicate of Group Ici entry
+Grundfos,"subpage: brand manufacturer, subpage: expand to new segments",https://www.grundfos.com,HIGH,FALSE,Danish pump manufacturer (global). Domain matches company name
+Gsm55,customer story: gsm55,https://www.gsm55.com,HIGH,FALSE,French online retailer for mobile phone accessories. Domain matches company name
+Haar Shop,customer story: haar shop ch,https://www.haar-shop.ch,HIGH,FALSE,Swiss online hair products retailer. Domain matches company name and .ch confirms Swiss origin
+Havaianas,"subpage: activation, subpage: fashion",https://www.havaianas.com,HIGH,FALSE,Brazilian flip-flop/sandal brand (global). Domain matches company name
+Henderson,"subpage: pim for food and beverage, testimonial: subpage: henderson",https://www.henderson-group.com,LOW,FALSE,Henderson in food & beverage context likely refers to Henderson Group/Henderson Foodservice (Northern Ireland). Ambiguous
+Heritage,"customer story: heritage parts centre, subpage: pim for automotive ecommerce",https://www.heritagepartscentre.com,HIGH,FALSE,Heritage Parts Centre - UK classic car parts retailer. Detection source confirms full name
+Ibuy Stores,customer story: ibuy stores,https://www.ibuystores.com,MEDIUM,FALSE,Online retail store. Less well-known; URL plausible but unverified
+Igus,customer story: igus,https://www.igus.com,HIGH,FALSE,German manufacturer of motion plastics (polymer bearings/cable carriers). Domain matches
+Intersport,"customer story: intersport, subpage: fashion",https://www.intersport.com,HIGH,FALSE,International sporting goods retail group. Domain matches company name
+Isdin,"subpage: activation, subpage: sell on retailers marketplaces",https://www.isdin.com,HIGH,FALSE,Spanish pharmaceutical/skincare company. Domain matches company name
+Jc Perreault,customer story: jc perreault,https://www.jcperreault.com,HIGH,FALSE,Canadian furniture and home decor retailer based in Quebec. Domain matches
+Jlr,"homepage, subpage: retailers & distributors",https://www.jlr.com,HIGH,FALSE,Jaguar Land Rover (rebranded to JLR). Listed separately from Jaguar
+Jpw Industries,subpage: brand manufacturer,https://www.jpwindustries.com,MEDIUM,FALSE,"Manufacturer of metalworking/woodworking machinery (JET, Powermatic brands). Not live-verified"
+Karl Lagerfeld,"subpage: expand to new segments, subpage: fashion",https://www.karllagerfeld.com,HIGH,FALSE,Global fashion house. Domain matches company name
+Kitwave,"homepage, subpage: distributor retailer, subpage: retailers & distributors, testimonial: subpage: kitwave",https://www.kitwave.co.uk,HIGH,FALSE,UK wholesale distribution group for food/drink/confectionery. Domain matches
+Kneipp,customer story: kneipp,https://www.kneipp.com,HIGH,FALSE,German natural cosmetics and bath products brand. Domain matches
+Kolmi Hopen,"customer story: kolmi hopen, customer story: kolmi hopen 2",https://www.kolmi-hopen.com,MEDIUM,FALSE,French manufacturer of surgical masks and medical protection. Niche company
+Koro,"customer story: koro, customer story: koro handels gmbh",https://www.korodrogerie.de,HIGH,FALSE,Koro Handels GmbH - German online food retailer selling bulk foods. Also uses koro.com
+Kruitbosch,customer story: kruitbosch,https://www.kruitbosch.nl,HIGH,FALSE,Dutch wholesale distributor of bicycles and bicycle parts. Domain matches
+Kurt Geiger,"customer story: kurt geiger, subpage: fashion, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.kurtgeiger.com,HIGH,FALSE,British luxury shoe and accessory brand. Domain matches
+Lagardere Travel Retail,customer story: lagardere travel retail 2,https://www.lagardere-tr.com,MEDIUM,FALSE,Travel retail division of Lagardere Group. Domain is abbreviated form
+Lancaster,customer story: lancaster,https://www.lancaster.com,MEDIUM,FALSE,Lancaster beauty/cosmetics brand (Monaco-based). Name is common; cosmetics context assumed
+Leatherman,customer story: leatherman,https://www.leatherman.com,HIGH,FALSE,American manufacturer of multi-tools and knives. Domain matches
+Legallais,customer story: legallais,https://www.legallais.com,HIGH,FALSE,French distributor of hardware/building supplies. Domain matches
+Lemieux,subpage: distributor retailer,https://www.lemieuxgroup.com,MEDIUM,FALSE,LeMieux - UK equestrian brand. Primary domain may vary; not live-verified
+Mannhummel,"homepage, subpage: activation, subpage: retailers & distributors, subpage: sell on retailers marketplaces",https://www.mann-hummel.com,HIGH,FALSE,German manufacturer of filtration solutions. Domain uses hyphenated form
+Midland Scientific,customer story: midland scientific,https://www.midlandsci.com,MEDIUM,FALSE,US distributor of laboratory supplies. Domain is abbreviated form
+Mole Online,"customer story: mole valley farmers, subpage: distributor retailer",https://www.molevalleyfarmers.com,HIGH,FALSE,Mole Valley Farmers - UK agricultural/country retailer; Mole Online is their online store brand
+Mondial Tissus,subpage: expand to new segments,https://www.mondialtissus.fr,HIGH,FALSE,French fabric and sewing retailer; domain matches company name
+Myer,"customer story: myer, subpage: akeneo solutions, subpage: customer story, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.myer.com.au,HIGH,FALSE,Major Australian department store chain; domain contains company name
+N Brown,customer story: n brown,https://www.nbrown.co.uk,HIGH,FALSE,"UK online fashion and homeware retailer (JD Williams, Simply Be, Jacamo)"
+Nature Decouvertes,customer story: nature decouvertes,https://www.natureetdecouvertes.com,HIGH,FALSE,French nature-themed retail chain; domain matches company name
+Nei,customer story: nei,null,LOW,TRUE,Ambiguous company name; multiple companies named NEI exist; unable to verify which one is the Akeneo customer
+Nelson Jameson,subpage: distributor retailer,https://www.nelsonjameson.com,HIGH,FALSE,US-based food and dairy processing industry distributor; domain matches
+Novia,customer story: novia,https://www.novia.fr,MEDIUM,FALSE,Novia is a French building/insulation products company; could also be other entities
+Nuna,subpage: brand manufacturer,https://www.nunababy.com,HIGH,FALSE,Nuna - premium baby gear/stroller manufacturer; nunababy.com is primary domain
+Nuxe,"subpage: akeneo solutions, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.nuxe.com,HIGH,FALSE,French cosmetics/skincare brand; domain matches company name
+Obelink,"customer story: obelink, subpage: pim for cpg",https://www.obelink.nl,HIGH,FALSE,Dutch outdoor/camping retailer; domain matches company name
+Petra,"customer story: petra, subpage: customer story, subpage: pim for food and beverage",null,LOW,TRUE,Ambiguous name; could be Petra Industries or others; food/beverage context unclear
+Pierce,"customer story: pierce, subpage: brand manufacturer",https://www.piercegroup.com,MEDIUM,FALSE,"Scandinavian online retailer for motorcycle/powersports/outdoor gear (XLmoto, 24MX brands)"
+Ploonk,customer story: ploonk,https://www.ploonk.com,MEDIUM,FALSE,Small wine brand (canned/boxed wine from South Africa); niche brand
+Poclain,customer story: poclain,https://www.poclain.com,HIGH,FALSE,French manufacturer of hydraulic motors for mobile machinery; domain matches
+Rdo Equip,"customer story: rdo equipment, homepage, subpage: retailers & distributors",https://www.rdoequipment.com,HIGH,FALSE,RDO Equipment Co. - major John Deere dealer/heavy equipment distributor in US
+Remmers Gruppe,customer story: remmers gruppe,https://www.remmers.com,HIGH,FALSE,German building products/coatings manufacturer (Remmers Gruppe AG)
+Remy Cointreau,"customer story: remy cointreau, subpage: activation",https://www.remy-cointreau.com,HIGH,FALSE,"French spirits group (Remy Martin, Cointreau, etc.)"
+Rexel,"customer story: rexel, homepage, subpage: retailers & distributors",https://www.rexel.com,HIGH,FALSE,Global distributor of electrical supplies; French-headquartered
+Rob The Gourmets Market,customer story: rob the gourmets market,https://www.rob-brussels.be,MEDIUM,FALSE,"Premium food market/grocery in Brussels, Belgium"
+Rural King,"subpage: akeneo solutions, subpage: customer story, subpage: omnichannel activation, subpage: sell on retailers marketplaces",https://www.ruralking.com,HIGH,FALSE,US farm/home supply retailer; domain contains name
+Sanicare,customer story: sanicare,https://www.sanicare.de,MEDIUM,FALSE,German online pharmacy; domain contains name but niche
+Sbs,"customer story: sbs mobile, subpage: brand manufacturer",https://www.sbsmobile.com,HIGH,FALSE,Italian mobile accessories brand; matches detection source context
+Schmidt Groupe,customer story: schmidt groupe,https://www.schmidt-groupe.com,HIGH,FALSE,French kitchen/furniture manufacturer; domain contains full name
+Sealedair,"customer story: sealed air, subpage: b2b manufacturing",https://www.sealedair.com,HIGH,FALSE,Sealed Air Corporation - packaging solutions; domain contains name
+Sellerx,customer story: sellerx,https://www.sellerx.com,HIGH,FALSE,Amazon aggregator/ecommerce brand acquirer; domain contains name
+Sephora,subpage: expand to new segments,https://www.sephora.com,HIGH,FALSE,Global beauty retailer (LVMH); domain contains name
+Shop Apotheke Europe,customer story: shop apotheke europe,https://www.shop-apotheke.com,HIGH,FALSE,European online pharmacy; domain contains name
+Shop Com Market America,customer story: shop com market america,https://www.shop.com,HIGH,FALSE,SHOP.COM by Market America; domain matches brand
+Slv,"customer story: slv erlebe licht, subpage: expand to new segments",https://www.slv.de,MEDIUM,FALSE,German lighting company (SLV GmbH); may have moved to slv-lighting.com
+Smallable,customer story: smallable,https://www.smallable.com,HIGH,FALSE,French family concept store / children's fashion ecommerce
+Smcp,customer story: smcp,https://www.smcp.com,HIGH,FALSE,"SMCP group (Sandro, Maje, Claudie Pierlot, Fursac)"
+Snipes,"homepage, subpage: retailers & distributors",https://www.snipes.com,HIGH,FALSE,Streetwear/sneaker retailer; domain contains name
+Spaenaur,customer story: spaenaur,https://www.spaenaur.com,HIGH,FALSE,Canadian industrial fasteners/parts distributor; domain contains name
+Staples,"customer story: staples, homepage, subpage: akeneo solutions, subpage: customer story, subpage: omnichannel activation, subpage: retailers & distributors, subpage: sell on retailers marketplaces",https://www.staples.com,HIGH,FALSE,Office supplies retailer; domain contains name
+Starkey,customer story: starkey,https://www.starkey.com,HIGH,FALSE,Hearing aid manufacturer (Starkey Hearing Technologies)
+Steelcase,"customer story: steelcase, homepage, subpage: retailers & distributors",https://www.steelcase.com,HIGH,FALSE,Office furniture manufacturer; domain contains name
+Sunbelt Rentals,subpage: distributor retailer,https://www.sunbeltrentals.com,HIGH,FALSE,Equipment rental company; domain contains name
+Synchro Diffusion,customer story: synchro diffusion,null,LOW,TRUE,French distribution company; unable to verify - domain uncertain
+Tarkett,"customer story: tarkett, subpage: brand manufacturer",https://www.tarkett.com,HIGH,FALSE,Flooring and sports surfaces manufacturer; domain matches
+Taylormade,subpage: activation,https://www.taylormadegolf.com,HIGH,FALSE,TaylorMade Golf - major golf equipment brand
+Tectake,"customer story: tectake, subpage: activation, subpage: sell on retailers marketplaces",https://www.tectake.com,HIGH,FALSE,German online retailer for furniture/garden/outdoor products; domain contains name
+The Agent,customer story: the agent,null,LOW,TRUE,Unable to verify; generic name with many possible matches
+The Conran Shop,customer story: the conran shop,https://www.conranshop.co.uk,HIGH,FALSE,UK premium furniture and homeware retailer; domain contains brand name
+The Granite Group,customer story: the granite group,https://www.thegranitegroup.com,HIGH,FALSE,US plumbing and heating wholesale distributor; domain contains company name
+Thirard,customer story: thirard,https://www.thirard.com,HIGH,FALSE,French lock and security hardware manufacturer; domain contains name
+Tiffany And Co,testimonial: subpage: tiffany and co,https://www.tiffany.com,HIGH,FALSE,Iconic luxury jewelry brand; well-known domain
+Tikamoon,customer story: tikamoon,https://www.tikamoon.com,HIGH,FALSE,French solid wood furniture e-commerce retailer; domain contains name
+Traco Ag,"customer story: traco ag, customer story: traco power",https://www.tracopower.com,MEDIUM,FALSE,Traco Power - Swiss manufacturer of DC/DC converters and power supplies; Traco AG may be parent
+Triumph Motorcycles,customer story: triumph motorcycles,https://www.triumphmotorcycles.com,HIGH,FALSE,British motorcycle manufacturer; domain contains full company name
+Trotec,customer story: trotec,https://www.trotec-laser.com,MEDIUM,FALSE,Trotec Laser - manufacturer of laser cutting/engraving machines; another Trotec exists (HVAC)
+Turner Price,customer story: turner price,https://www.turnerprice.com,HIGH,FALSE,UK foodservice wholesale distributor; domain contains company name
+Tvh,subpage: pim for automotive ecommerce,https://www.tvh.com,HIGH,FALSE,TVH Parts - global distributor of replacement parts for material handling/industrial/automotive
+Vandb,customer story: vandb,https://www.vandb.fr,HIGH,FALSE,V and B (VandB) - French franchise retailer of wines/beers/spirits
+Verkkokauppa,customer story: verkkokauppa com,https://www.verkkokauppa.com,HIGH,FALSE,Finnish online electronics and general merchandise retailer
+Villaverde,customer story: villaverde,https://www.villaverde.fr,MEDIUM,FALSE,French garden center and pet store chain; some ambiguity with other same-name entities
+Wardow,customer story: wardow,https://www.wardow.com,HIGH,FALSE,German online retailer for premium bags and leather goods
+Wein Wolf Gmbh,"customer story: wein wolf gmbh, customer story: wein wolf group",https://www.weinwolf.de,HIGH,FALSE,German wine distributor and importer
+Wuesthof,subpage: brand manufacturer,https://www.wuesthof.com,HIGH,FALSE,Wuesthof (Wusthof) - German premium knife manufacturer from Solingen
+Zadigvoltaire,customer story: zadigvoltaire,https://www.zadig-et-voltaire.com,HIGH,FALSE,Zadig & Voltaire - French fashion brand
+Zenith,customer story: zenith,https://www.zenith-watches.com,HIGH,FALSE,Zenith - Swiss luxury watchmaker (LVMH group); preferred over industrial homonyms
+Zodio,customer story: zodio,https://www.zodio.fr,HIGH,FALSE,French home decoration and cooking supplies retail chain

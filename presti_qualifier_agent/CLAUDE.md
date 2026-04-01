@@ -37,9 +37,10 @@ Ajouter `website_confidence` dans l'output pour chaque URL :
 ### 4. Évaluer les 5 critères
 
 **Vertical**
-- KEEP : home/furniture, home improvement, consumer electronics, sporting goods, pet care, kitchenware, toys, outdoor/garden
-- DISQUALIFY : fashion/apparel, grocery/food retail, spirits/alcohol/beverages, pharmacy/health/beauty retail
+- KEEP : home/furniture, home improvement, consumer electronics, sporting goods, pet care, kitchenware, toys, outdoor/garden, jewelry/luxury accessories (watches, rings, necklaces, bracelets), beauty/cosmetics (makeup, skincare, fragrance), footwear (shoes, boots, sandals, sneakers), department stores with home/fashion/beauty/accessories categories (ex: Myer, El Corte Inglés)
+- DISQUALIFY : pure fashion/apparel (clothing only, no accessories), grocery/food retail, spirits/alcohol/beverages, pharmacy/health (online or physical), automotive manufacturers, industrial B2B (no consumer ecommerce), food service/distribution
 - UNCLEAR : si impossible à déterminer
+- **Règle pour les retailers mixtes** : en cas de doute entre KEEP et DISQUALIFY pour un retailer multi-catégorie (ex: department store), vérifier s'il possède un segment significatif home, electronics, sporting goods, beauty ou accessories — si oui, KEEP.
 
 **Produits physiques**
 - PASS : vend des produits tangibles

@@ -1,0 +1,145 @@
+account_name,website_url,website_confidence,revenue_status,reported_revenue,employee_count,confidence,reasoning
+Abb Inbetween,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+Bs International,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+Deventrade,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+Grillstar,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+Nei,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+Petra,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+Synchro Diffusion,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+The Agent,null,LOW,skipped,,,,Skipped - no URL found in Step 1
+24Mx,https://www.24mx.com,HIGH,disqualified,Part of Pierce Group (~SEK 1.6B / ~$155M),800+ (group),high,Pierce Group total ~$155M; well under $1B
+Abitare,https://www.abitarekids.com,MEDIUM,disqualified,,~50,low,Small children's furniture retailer
+Adam Hall,https://www.adamhall.com,HIGH,disqualified,~EUR 200M,500+,medium,Event technology manufacturer
+Advanced Drainage Systems,https://www.ads-pipe.com,HIGH,confirmed,~$2.9B (FY2024),7000+,high,NYSE: WMS; publicly traded; FY2024 revenue ~$2.9B
+Agu,https://www.agu.com,HIGH,disqualified,~$9M (2024),160,high,Chapter 11 in 2024; rescued by EcoMotion; tiny revenue
+Aigle,https://www.aigle.com,HIGH,disqualified,,~800,medium,French outdoor brand; ~800 employees; well under EUR 1B
+Algorel Diamart Now,https://www.diamart.fr,MEDIUM,disqualified,,~50,low,Small French consulting firm
+Alltricks,https://www.alltricks.com,HIGH,disqualified,~EUR 200M,~300,medium,French cycling retailer; acquired by Decathlon
+American Eagle,https://www.ae.com,HIGH,confirmed,~$5.3B (FY2024),40000+,high,NYSE: AEO; publicly traded
+Amg Medical,https://www.amgmedical.com,MEDIUM,disqualified,,~100,low,Canadian medical equipment; small
+Asket,https://www.asket.com,HIGH,disqualified,~$20-40M,~50-100,low,Swedish DTC fashion startup
+Assa Abloy,https://www.assaabloy.com,HIGH,confirmed,~$13B (2024),52000+,high,OMX: ASSA-B; global lock/access leader
+Axonlab,https://www.axonlab.com,HIGH,disqualified,~$39.5M,222,medium,Swiss lab products distributor
+Babolat,https://www.babolat.com,HIGH,disqualified,~$70-155M,~400,medium,French tennis equipment; well under $1B
+Bata,https://www.bata.com,HIGH,confirmed,~$2-3B,30000+,medium,Global footwear; 70+ countries
+Bath Depot,https://www.bathdepot.ca,HIGH,disqualified,~$19.7M,200+,medium,Canadian bathroom retailer
+Bentley,https://www.bentleymotors.com,HIGH,confirmed,~EUR 3.4B (2023),4500+,high,VW Group subsidiary
+Bergfreunde,https://www.bergfreunde.de,HIGH,disqualified,~EUR 200M,~500,medium,German outdoor retailer
+Bestway,https://www.bestwaycorp.com,MEDIUM,confirmed,~$2.8B (2025),3000+,high,Global leader inflatable pools; 47% market share
+Boshart Industries,https://www.boshart.com,HIGH,disqualified,~$10-25M,~80,medium,Canadian plumbing/valve manufacturer
+Bradfords,https://www.bradfords.co.uk,HIGH,disqualified,~GBP 100M,500+,medium,UK building materials; single region
+Calumet Photographic,https://www.calumetphoto.com,HIGH,disqualified,,~50-100,low,Photography retailer; went through bankruptcy
+Carhartt,https://www.carhartt.com,HIGH,confirmed,~$1.5-1.8B,5000+,high,Major US workwear brand
+Caterforce,https://www.caterforce.co.uk,HIGH,disqualified,~GBP 500M (buying volume),200+,medium,UK foodservice buying group; under £1B
+Chicos,https://www.chicos.com,HIGH,confirmed,~$2.1B,10000+,high,Chico's FAS; taken private by Sycamore 2023
+City Furniture,https://www.cityfurniture.com,HIGH,disqualified,~$321M-$760M,2500+,medium,South Florida furniture; most recent est. $321M; under $1B
+Clarks,https://www.clarks.com,HIGH,confirmed,~GBP 1.2B (~$1.5B),12000+,high,British footwear; global operations
+Costa,https://www.costa.co.uk,MEDIUM,confirmed,~GBP 1.5B+,16000+,high,Costa Coffee; Coca-Cola owned; UK's largest coffee chain
+Courir,https://www.courir.com,HIGH,disqualified,~EUR 587M (2024),3000+,high,French sneaker retailer; acquired by JD Sports; EUR 587M in 2024
+Delfingen,https://www.delfingen.com,HIGH,disqualified,~EUR 400M,4000+,high,Euronext-listed; automotive parts; under EUR 1B
+Demon Tweeks,https://www.demon-tweeks.com,HIGH,disqualified,~$25-36M,~150,medium,UK motorsport parts; niche
+Digital Factory Invivo,https://www.invivo-group.com,MEDIUM,confirmed,~EUR 12B (InVivo Group),13000+,high,Parent InVivo is major French agricultural cooperative
+Drawer,https://www.drawer.fr,HIGH,disqualified,,~30-50,low,Small French furniture ecommerce
+Eataly,https://www.eataly.com,HIGH,disqualified,~EUR 500-600M,5000+,medium,Italian food marketplace; under EUR 1B
+Electro Depot,https://www.electrodepot.fr,HIGH,disqualified,~EUR 500-700M,2000+,medium,French electronics discount; under EUR 1B
+Elisa,https://www.elisa.fi,MEDIUM,confirmed,~EUR 2.2B,6400+,high,HEL: ELISA; Finnish telecom
+Emka Gruppe,https://www.emka.com,MEDIUM,disqualified,,~400-1000,low,German locking systems; no revenue data but likely well under $1B
+Fanatics,https://www.fanatics.com,HIGH,confirmed,~$8B+,10000+,high,Major US sports merchandise; valued $31B
+Felco,https://www.felco.com,HIGH,disqualified,~CHF 50-100M,~300,medium,Swiss pruning tools; niche
+Feuvert,https://www.feuvert.fr,HIGH,disqualified,~EUR 466M (entity) / EUR 900M (group),4000+,high,Feu Vert; under EUR 1B even at group level
+Fielmann,https://www.fielmann.com,HIGH,confirmed,~EUR 2.2B,23000+,high,ETR: FIE; largest European optician
+Fossil,https://www.fossil.com,HIGH,confirmed,~$1.14B (FY2024),8000+,high,NASDAQ: FOSL; FY2024 revenue $1.14B (declining but still >$1B)
+Franklin Electric,https://www.franklin-electric.com,HIGH,confirmed,~$2.1B,6500+,high,NASDAQ: FELE; pumping systems
+Franprix,https://www.franprix.fr,HIGH,confirmed,~EUR 2B+ (network),8000+,medium,Casino Group subsidiary; 900+ stores in Paris region
+Fraport Frankfurt Airport Shopping,https://www.frankfurt-airport.com,HIGH,confirmed,~EUR 3.9B (2023),23000+,high,ETR: FRA; major airport operator
+Furla,https://www.furla.com,HIGH,disqualified,~$666M (2025 est.),2000+,medium,Italian leather goods; under $1B
+Gadero,https://www.gadero.nl,HIGH,disqualified,~EUR 50-100M,~77,medium,Dutch wood/garden retailer
+Gedimat,https://www.gedimat.fr,HIGH,confirmed,~EUR 2B+ (network),10000+,medium,French building materials cooperative; 450+ stores
+Giant Tiger,https://www.gianttiger.com,HIGH,confirmed,~CAD 2B (~$1.5B USD),10000+,high,Canadian discount chain; 260+ stores
+Groupe Emosia,https://www.emosia.com,MEDIUM,disqualified,EUR 110M,500,high,French home fragrance group
+Groupe Ici,https://www.groupeici.com,MEDIUM,disqualified,,~100-200,low,French retail group; small
+Grundfos,https://www.grundfos.com,HIGH,confirmed,~EUR 4.6B,20000+,high,Danish pump manufacturer; global leader
+Gsm55,https://www.gsm55.com,HIGH,disqualified,,~30-50,low,French mobile accessories; small
+Haar Shop,https://www.haar-shop.ch,HIGH,disqualified,,~20-50,low,Swiss online hair products; small
+Havaianas,https://www.havaianas.com,HIGH,confirmed,~BRL 5B+ (Alpargatas),10000+,high,BVMF: ALPA4; global sandal brand
+Henderson,https://www.henderson-group.com,LOW,confirmed,~GBP 1.389B (2024),3000+,high,NI's largest food group; verified GBP 1.389B turnover 2024
+Heritage,https://www.heritagepartscentre.com,HIGH,disqualified,,~50-100,low,UK classic car parts; niche
+Ibuy Stores,https://www.ibuystores.com,MEDIUM,disqualified,,,low,Unknown company; very small
+Igus,https://www.igus.com,HIGH,confirmed,~EUR 1.105B (2024),5000+,high,German motion plastics; confirmed EUR 1.1B in 2024 press release
+Intersport,https://www.intersport.com,HIGH,confirmed,~EUR 12B+ (network),100000+,high,World's largest sporting goods retail group
+Isdin,https://www.isdin.com,HIGH,disqualified,~EUR 340-400M,~1800,medium,Spanish skincare; growing fast but under EUR 1B
+Jc Perreault,https://www.jcperreault.com,HIGH,disqualified,,~100-200,low,Quebec furniture retailer; single showroom
+Jlr,https://www.jlr.com,HIGH,confirmed,~GBP 29B,40000+,high,Jaguar Land Rover; Tata Motors subsidiary
+Jpw Industries,https://www.jpwindustries.com,MEDIUM,disqualified,~$200M+,500+,medium,JET/Powermatic brands; under $1B
+Karl Lagerfeld,https://www.karllagerfeld.com,HIGH,disqualified,~EUR 500M+,1500+,medium,Fashion house; under EUR 1B
+Kitwave,https://www.kitwave.co.uk,HIGH,disqualified,~GBP 600M,2000+,high,LON: KITW; UK wholesale; under GBP 1B
+Kneipp,https://www.kneipp.com,HIGH,disqualified,~EUR 200-250M,800+,medium,German natural cosmetics
+Kolmi Hopen,https://www.kolmi-hopen.com,MEDIUM,disqualified,,~200-300,low,French medical masks; niche
+Koro,https://www.korodrogerie.de,HIGH,disqualified,~EUR 100M+,300+,medium,German online food retailer
+Kruitbosch,https://www.kruitbosch.nl,HIGH,disqualified,,~150-200,low,Dutch bicycle wholesale; niche
+Kurt Geiger,https://www.kurtgeiger.com,HIGH,disqualified,~GBP 300M+,1500+,medium,British luxury footwear; under GBP 1B
+Lagardere Travel Retail,https://www.lagardere-tr.com,MEDIUM,confirmed,~EUR 5.4B,20000+,high,Travel retail division of Lagardere Group
+Lancaster,https://www.lancaster.com,MEDIUM,disqualified,,,low,Coty-owned cosmetics brand; brand revenue not disclosed separately
+Leatherman,https://www.leatherman.com,HIGH,disqualified,~$200-300M,1000+,medium,US multi-tools; well under $1B
+Legallais,https://www.legallais.com,HIGH,disqualified,~EUR 350M,1500+,medium,French hardware distributor; under EUR 1B
+Lemieux,https://www.lemieuxgroup.com,MEDIUM,disqualified,,~100-200,low,UK equestrian brand; niche
+Mannhummel,https://www.mann-hummel.com,HIGH,confirmed,~EUR 4.2B (2023),23000+,high,German filtration multinational
+Midland Scientific,https://www.midlandsci.com,MEDIUM,disqualified,,~50-100,low,US lab supplies; niche
+Mole Online,https://www.molevalleyfarmers.com,HIGH,disqualified,~GBP 600M,1400+,medium,Mole Valley Farmers; under GBP 1B
+Mondial Tissus,https://www.mondialtissus.fr,HIGH,disqualified,~EUR 200M,1200+,medium,French fabric retailer; under EUR 1B
+Myer,https://www.myer.com.au,HIGH,confirmed,"~AUD 2.64B (~$1.7B USD, FY2024)",8000+,high,ASX: MYR; Australian department store
+N Brown,https://www.nbrown.co.uk,HIGH,disqualified,~GBP 400-700M,2000+,high,LON: BWNG; UK online fashion; under GBP 1B
+Nature Decouvertes,https://www.natureetdecouvertes.com,HIGH,disqualified,~EUR 200M,800+,medium,French retail; Fnac Darty group
+Nelson Jameson,https://www.nelsonjameson.com,HIGH,disqualified,~$30-50M,~150,low,US food industry distributor; niche
+Novia,https://www.novia.fr,MEDIUM,disqualified,,~50-100,low,French building products; small
+Nuna,https://www.nunababy.com,HIGH,disqualified,~$100-200M,~300-500,medium,Premium baby gear; under $1B
+Nuxe,https://www.nuxe.com,HIGH,disqualified,~EUR 200M,700+,medium,French cosmetics
+Obelink,https://www.obelink.nl,HIGH,disqualified,~EUR 200M,500+,medium,Dutch outdoor retailer
+Pierce,https://www.piercegroup.com,MEDIUM,disqualified,~SEK 1.6B (~EUR 150M),~500,high,Scandinavian powersports; well under $1B
+Ploonk,https://www.ploonk.com,MEDIUM,disqualified,,~10-20,low,Small wine brand
+Poclain,https://www.poclain.com,HIGH,disqualified,~EUR 400M,2500+,medium,French hydraulic motors; under EUR 1B
+Rdo Equip,https://www.rdoequipment.com,HIGH,confirmed,~$3.5B,5000+,high,Major John Deere dealer; one of largest in US
+Remmers Gruppe,https://www.remmers.com,HIGH,disqualified,~EUR 400-700M,1500-3000,medium,German building products; under EUR 1B
+Remy Cointreau,https://www.remy-cointreau.com,HIGH,confirmed,~EUR 1.2B,2000+,high,EPA: RCO; French spirits group
+Rexel,https://www.rexel.com,HIGH,confirmed,~EUR 19B+,26000+,high,EPA: RXL; global electrical distribution
+Rob The Gourmets Market,https://www.rob-brussels.be,MEDIUM,disqualified,,~50-100,low,Brussels gourmet store; single location
+Rural King,https://www.ruralking.com,HIGH,confirmed,~$2B+,6000+,medium,US farm/home supply; 130+ stores
+Sanicare,https://www.sanicare.de,MEDIUM,disqualified,,~50-100,low,German online pharmacy; small
+Sbs,https://www.sbsmobile.com,HIGH,disqualified,~EUR 70M,200+,medium,Italian mobile accessories
+Schmidt Groupe,https://www.schmidt-groupe.com,HIGH,confirmed,~EUR 1.6B (distribution network),8000+,high,French kitchen/furniture; EUR 602M manufacturing + EUR 1.6B distribution
+Sealedair,https://www.sealedair.com,HIGH,confirmed,~$5.5B,17000+,high,NYSE: SEE; packaging
+Sellerx,https://www.sellerx.com,HIGH,disqualified,~$100-200M GMV,~300,low,Amazon aggregator; net revenue well under $1B
+Sephora,https://www.sephora.com,HIGH,confirmed,~$15B+ (est.),40000+,high,LVMH beauty retail subsidiary
+Shop Apotheke Europe,https://www.shop-apotheke.com,HIGH,confirmed,~EUR 2.2B (FY2024),3000+,high,Now Redcare Pharmacy; publicly traded
+Shop Com Market America,https://www.shop.com,HIGH,disqualified,~$200-400M,500+,low,MLM/ecommerce; under $1B
+Slv,https://www.slv.de,MEDIUM,disqualified,,~200-500,low,German lighting; no revenue data
+Smallable,https://www.smallable.com,HIGH,disqualified,~EUR 50M (2020),~80,high,Entered judicial liquidation July 2024
+Smcp,https://www.smcp.com,HIGH,confirmed,~EUR 1.2B,6000+,high,EPA: SMCP; Sandro/Maje/Claudie Pierlot
+Snipes,https://www.snipes.com,HIGH,confirmed,~EUR 1.8B (2024),7000+,high,Deichmann-owned; 800+ stores; verified EUR 1.8B contribution
+Spaenaur,https://www.spaenaur.com,HIGH,disqualified,,~100-200,low,Canadian industrial parts; niche
+Staples,https://www.staples.com,HIGH,confirmed,~$12B,25000+,high,Major office supplies retailer
+Starkey,https://www.starkey.com,HIGH,confirmed,~$1B (2024),5000+,medium,Fortune confirms $1B revenue; hearing aid manufacturer
+Steelcase,https://www.steelcase.com,HIGH,confirmed,~$3.2B,11000+,high,NYSE: SCS; office furniture
+Sunbelt Rentals,https://www.sunbeltrentals.com,HIGH,confirmed,~$7.5B,18000+,high,Ashtead Group subsidiary; equipment rental
+Tarkett,https://www.tarkett.com,HIGH,confirmed,~EUR 3.4B,12000+,high,EPA: TKTT; flooring manufacturer
+Taylormade,https://www.taylormadegolf.com,HIGH,confirmed,~$2B+,3000+,high,Major golf equipment brand
+Tectake,https://www.tectake.com,HIGH,disqualified,~EUR 200M+,500+,medium,German online furniture/garden
+The Conran Shop,https://www.conranshop.co.uk,HIGH,disqualified,~$42M,~135,medium,Premium homeware; few locations
+The Granite Group,https://www.thegranitegroup.com,HIGH,disqualified,~$500M+,1000+,medium,US plumbing/HVAC wholesale; under $1B
+Thirard,https://www.thirard.com,HIGH,disqualified,,~200-400,low,French lock manufacturer; small
+Tiffany And Co,https://www.tiffany.com,HIGH,confirmed,~$5B+,14000+,high,LVMH luxury jewelry
+Tikamoon,https://www.tikamoon.com,HIGH,disqualified,~EUR 30-50M,~100-200,low,French wood furniture ecommerce
+Traco Ag,https://www.tracopower.com,MEDIUM,disqualified,~CHF 100M+,300+,medium,Swiss power supplies
+Triumph Motorcycles,https://www.triumphmotorcycles.com,HIGH,disqualified,"~GBP 693M (~$870M, 2024)",~2500,high,British motorcycles; record year but still under $1B USD
+Trotec,https://www.trotec-laser.com,MEDIUM,disqualified,~EUR 200M+,1000+,medium,Laser machines; Trodat group
+Turner Price,https://www.turnerprice.com,HIGH,disqualified,~GBP 200M+,500+,medium,UK foodservice wholesale
+Tvh,https://www.tvh.com,HIGH,confirmed,~EUR 2B+,5000+,high,Belgian global parts distributor
+Vandb,https://www.vandb.fr,HIGH,disqualified,~EUR 150-200M (network),500+,medium,French wine/beer franchise
+Verkkokauppa,https://www.verkkokauppa.com,HIGH,disqualified,~EUR 500M,700+,high,HEL: VERK; Finnish electronics; under EUR 1B
+Villaverde,https://www.villaverde.fr,MEDIUM,disqualified,~EUR 300-400M (network),1000+,medium,French garden/pet franchise
+Wardow,https://www.wardow.com,HIGH,disqualified,,~30-50,low,German online bags retailer
+Wein Wolf Gmbh,https://www.weinwolf.de,HIGH,disqualified,,~50-100,low,German wine distributor
+Wuesthof,https://www.wuesthof.com,HIGH,disqualified,~EUR 100M+,400+,medium,German knife manufacturer
+Zadigvoltaire,https://www.zadig-et-voltaire.com,HIGH,disqualified,~EUR 500-600M,2000+,medium,French fashion; under EUR 1B
+Zenith,https://www.zenith-watches.com,HIGH,disqualified,~CHF 100-200M (est.),500+,medium,LVMH Swiss watches; brand under $1B
+Zodio,https://www.zodio.fr,HIGH,disqualified,~EUR 130M,~500,high,French home/cooking retail; Adeo group
