@@ -6,6 +6,35 @@ Automated account discovery tool that finds customers, partners, and related com
 
 Given a company name and website URL, the script identifies all publicly visible accounts (customers, partners, case study subjects) and outputs a deduplicated CSV. Designed for competitive intelligence and ecosystem mapping.
 
+## Website URL Verification
+
+When the agent finds or assigns a website URL for a company, it **must** follow this verification process:
+
+### 1. Search for the official website
+- Search for `"{company_name} official website"` to find the correct URL.
+- Do not rely on memory or assumptions — always verify via search.
+
+### 2. Cross-check ownership
+- Confirm the URL actually belongs to the target company:
+  - The company name appears in the page title, header, or domain.
+  - The site content matches the company's known industry and description.
+- If the domain doesn't clearly match the company, reject it.
+
+### 3. Handle homonyms (companies sharing the same name)
+- When multiple companies share the same name (e.g. "Bestway", "Zenith", "Summit"), **always prefer the ecommerce / retail / manufacturer version**.
+- Never select a travel agency, professional services firm, or unrelated B2B company when a retail/ecommerce/manufacturer match exists.
+- If ambiguity remains, include a note explaining which entity was selected and why.
+
+### 4. Assign confidence level
+- Include `website_confidence` in the output for every URL:
+  - **HIGH** — Domain contains company name, page title/header confirms identity, industry matches.
+  - **MEDIUM** — Domain is plausible but doesn't contain the company name, or minor ambiguity exists.
+  - **LOW** — URL found but ownership is uncertain, or multiple same-name companies make disambiguation difficult.
+
+### 5. Never use unverified URLs
+- **Never** include a URL in the output that doesn't clearly belong to the target company.
+- If no confident match is found, set the website field to `null` and `website_confidence = LOW` with a note explaining why.
+
 ## Data Sources
 
 The script scrapes 8 categories of sources, in order:

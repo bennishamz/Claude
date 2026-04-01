@@ -19,8 +19,15 @@ Avant de scraper, confirmer que l'URL du CSV correspond bien à l'entreprise :
 - Visite la homepage de l'URL fournie dans le CSV
 - Vérifie que le nom de l'entreprise (colonne company) apparaît sur la page : dans le `<title>`, les balises `<h1>`/`<h2>`, l'attribut `alt` du logo, ou le contenu principal
 - **Si le site NE correspond PAS au nom de l'entreprise** → recherche la bonne URL avec la requête `"{company_name} official website ecommerce"` et utilise celle-ci à la place. Marque `website_mismatch=TRUE` dans la colonne notes ET dans la colonne `website_mismatch`
-- **Cas particuliers (homonymes)** : certaines entreprises comme "Bestway" ou "Zenith" ont plusieurs entités non liées portant le même nom. Toujours privilégier la version eCommerce/retail plutôt que voyage, services, ou B2B industriel
+- **Cas particuliers (homonymes)** : certaines entreprises comme "Bestway" ou "Zenith" ont plusieurs entités non liées portant le même nom. Toujours privilégier la version eCommerce/retail/manufacturer plutôt que voyage, services, ou B2B industriel. Ne jamais sélectionner une agence de voyage, une société de services, ou une entreprise B2B sans rapport quand un match retail/ecommerce/fabricant existe
 - Si le site correspond bien → `website_mismatch=FALSE`
+- **Ne jamais utiliser une URL qui n'appartient pas clairement à l'entreprise cible.** Si aucun match fiable n'est trouvé, mettre le website à `null`
+
+#### Niveau de confiance URL
+Ajouter `website_confidence` dans l'output pour chaque URL :
+- **HIGH** — Le domaine contient le nom de l'entreprise, le titre/header confirme l'identité, le secteur correspond
+- **MEDIUM** — Le domaine est plausible mais ne contient pas le nom de l'entreprise, ou une ambiguïté mineure existe
+- **LOW** — URL trouvée mais appartenance incertaine, ou plusieurs entreprises homonymes rendent la désambiguïsation difficile. Si LOW, mettre une note explicative
 
 ### 3. Scraper le site
 - Fais des requêtes HTTP sur homepage, puis cherche une page catégorie (PLP) et une page produit (PDP)
@@ -58,7 +65,7 @@ Avant de scraper, confirmer que l'URL du CSV correspond bien à l'entreprise :
 - ERROR = site inaccessible
 
 ### 6. Output : output/results.csv
-Colonnes : toutes les colonnes input + website_mismatch, vertical, vertical_verdict,
+Colonnes : toutes les colonnes input + website_mismatch, website_confidence, vertical, vertical_verdict,
 sells_physical_products, has_ecommerce, catalog_size, catalog_size_raw,
 has_product_images, fit_score, notes, qualified_at
 
