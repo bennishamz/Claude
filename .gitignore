@@ -1,0 +1,6 @@
+input.csv
+output/
+*.xlsx
+__pycache__/
+*.pyc
+.DS_Store
