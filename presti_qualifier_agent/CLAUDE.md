@@ -14,12 +14,20 @@ Installe les dépendances manquantes avec pip3 si nécessaire.
 ### 1. Lire input.csv
 Colonnes attendues : company, website (+ autres colonnes conservées).
 
-### 2. Pour chaque entreprise, scraper le site
+### 2. Vérifier l'identité du site web
+Avant de scraper, confirmer que l'URL du CSV correspond bien à l'entreprise :
+- Visite la homepage de l'URL fournie dans le CSV
+- Vérifie que le nom de l'entreprise (colonne company) apparaît sur la page : dans le `<title>`, les balises `<h1>`/`<h2>`, l'attribut `alt` du logo, ou le contenu principal
+- **Si le site NE correspond PAS au nom de l'entreprise** → recherche la bonne URL avec la requête `"{company_name} official website ecommerce"` et utilise celle-ci à la place. Marque `website_mismatch=TRUE` dans la colonne notes ET dans la colonne `website_mismatch`
+- **Cas particuliers (homonymes)** : certaines entreprises comme "Bestway" ou "Zenith" ont plusieurs entités non liées portant le même nom. Toujours privilégier la version eCommerce/retail plutôt que voyage, services, ou B2B industriel
+- Si le site correspond bien → `website_mismatch=FALSE`
+
+### 3. Scraper le site
 - Fais des requêtes HTTP sur homepage, puis cherche une page catégorie (PLP) et une page produit (PDP)
 - Timeout max 15s par requête
 - User-agent : Mozilla/5.0 (compatible browser)
 
-### 3. Évaluer les 5 critères
+### 4. Évaluer les 5 critères
 
 **Vertical**
 - KEEP : home/furniture, home improvement, consumer electronics, sporting goods, pet care, kitchenware, toys, outdoor/garden
@@ -42,15 +50,15 @@ Colonnes attendues : company, website (+ autres colonnes conservées).
 - PASS : balises img avec des URLs contenant product/media/catalog sur les PDPs
 - DEPRIORITIZE : pas d'images propriétaires détectées
 
-### 4. Fit Score
+### 5. Fit Score
 - A = vertical KEEP + catalogue LARGE + eCommerce PASS
 - B = 2 critères sur 3
 - C = 1 ou 0 critère
 - DISQUALIFIED = vertical DISQUALIFY
 - ERROR = site inaccessible
 
-### 5. Output : output/results.csv
-Colonnes : toutes les colonnes input + vertical, vertical_verdict,
+### 6. Output : output/results.csv
+Colonnes : toutes les colonnes input + website_mismatch, vertical, vertical_verdict,
 sells_physical_products, has_ecommerce, catalog_size, catalog_size_raw,
 has_product_images, fit_score, notes, qualified_at
 
