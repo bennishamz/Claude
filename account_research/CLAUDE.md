@@ -96,6 +96,8 @@ CSV with columns:
 - `domain` -- Domain if detectable from image source URL
 - `detection_source` -- Where the account was found (e.g. `homepage`, `subpage: activation`, `testimonial: customer story: kitwave`, `Google search`, `G2 review`)
 - `detected_company` -- The company that was researched (input)
+- `linkedin_url` -- Official LinkedIn company page URL (format: `https://www.linkedin.com/company/...`). To find it, search `"{account_name} LinkedIn"` and take the first official company page result. If no official page is found, set to `null`.
+- `hq_country` -- Country where the company is headquartered, in English (e.g. `France`, `United States`, `Germany`). Extract from the company website (About/Contact page), Wikipedia, or LinkedIn profile. If not determinable, set to `null`.
 
 Accounts appearing in multiple sources get one row per source.
 
